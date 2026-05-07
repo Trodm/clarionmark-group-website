@@ -1,1 +1,0 @@
-Upload and replace these files in your GitHub repository.
